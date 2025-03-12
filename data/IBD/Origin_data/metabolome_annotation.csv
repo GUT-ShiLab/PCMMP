@@ -1,0 +1,467 @@
+Compound,HMDB,KEGG,High.Confidence.Annotation,Compound.Name,Retention.Time,m.z,Cluster..if.DA.,Putative.Chemical.Class,Adduct
+HILIC-neg_Cluster_0480: 1-3-7-trimethylurate,HMDB0002123,C16361,True,1-3-7-trimethylurate,3.83278,209.067885,,Imidazopyrimidines,[M-H]-
+HILIC-pos_Cluster_0245: 1-methylguanine,HMDB0003282,C04152,True,1-methylguanine,5.196976,166.071783,,Imidazopyrimidines,[M+H]+
+HILIC-pos_Cluster_0110: 1-methylnicotinamide,HMDB0000699,C02918,True,1-methylnicotinamide,8.138234,137.070572,,Pyridinecarboxylic acids and derivatives,[M+H]+
+"HILIC-neg_Cluster_0622: 1,2,3,4-tetrahydro-1-methyl-beta-carboline-3-carboxylic acid",HMDB0037942,,True,"1,2,3,4-tetrahydro-1-methyl-beta-carboline-3-carboxylic acid",3.809685,229.097974,5.0,Harmala alkaloids,[M-H]-
+"C18-neg_Cluster_0183: 1,2,3,4-tetrahydro-b-carboline-1,3-dicarboxylic acid",HMDB0032102,,True,"1,2,3,4-tetrahydro-b-carboline-1,3-dicarboxylic acid",1.282739,259.072196,2.0,,[M-H]-
+C18-neg_Cluster_0393: 12.13-diHOME,HMDB0004705,C14829,True,12.13-diHOME,10.162391,313.238314,,Long-chain fatty acids,[M-H]-
+C18-neg_Cluster_0530: 13-docosenoate,HMDB0002068,C08316,True,13-docosenoate,16.986972,337.310869,,Very long-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0032: 2-aminobutyric acid,HMDB0000452,C02356,True,2-aminobutyric acid,3.037586,102.056011,,L-alpha-amino acids,[M-H]-
+HILIC-pos_Cluster_0728: 2-deoxyadenosine,HMDB0000101,C00559,True,2-deoxyadenosine,5.144115,252.108028,1.0,Purine nucleosides,[M+H]+
+HILIC-neg_Cluster_0113: 2-hydroxy-3-methylpentanoic acid /  leucinic acid,,,False,2-hydroxy-3-methylpentanoic acid /  leucinic acid,3.663407,131.071198,3.0,Hydroxy fatty acids,[M-H]-
+HILIC-neg_Cluster_0169: 2-hydroxyglutarate,HMDB0059655,C02630,True,2-hydroxyglutarate,7.205254,147.029673,,Hydroxy acids and derivatives,[M-H]-
+C18-neg_Cluster_0219: 2-hydroxyhexadecanoate,HMDB0031057,,True,2-hydroxyhexadecanoate,13.929959,271.228079,11.0,,[M-H]-
+C18-neg_Cluster_0144: 2-hydroxymyristic acid,HMDB0002261,,True,2-hydroxymyristic acid,12.518107,243.196061,11.0,Long-chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0114: 2-hydroxyphenethylamine,HMDB0001065,C02735,True,2-hydroxyphenethylamine,6.220723,138.090932,3.0,Organonitrogen compounds,[M+H]+
+HILIC-neg_Cluster_0161: 2-methylglutaric acid,HMDB0000422,,True,2-methylglutaric acid,7.166747,145.050329,,Methyl-branched fatty acids,[M-H]-
+HILIC-neg_Cluster_0220: 3-methyladipate-pimelate,HMDB0000555,,False,3-methyladipate-pimelate,7.313638,159.065982,3.0,Medium-chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0272: 3-methylhistidine,HMDB0000479,C01152,True,3-methylhistidine,9.833021,170.091783,,Histidine and derivatives,[M+H]+
+HILIC-pos_Cluster_0254: 3-methylxanthine,HMDB0001886,C16357,True,3-methylxanthine,3.279602,167.055805,,Imidazopyrimidines,[M+H]+
+HILIC-pos_Cluster_0150: 4-guanidinobutanoic acid,HMDB0003464,C01035,True,4-guanidinobutanoic acid,7.207806,146.091958,,Gamma amino acids and derivatives,[M+H]+
+HILIC-pos_Cluster_0177: 4-hydroxy-3-methylacetophenone,HMDB0059824,,True,4-hydroxy-3-methylacetophenone,1.695767,151.074856,,Alkyl-phenylketones,[M+H]+
+HILIC-neg_Cluster_0079: 4-hydroxybenzaldehyde,HMDB0011718,C00633,True,4-hydroxybenzaldehyde,2.527884,121.029504,,Hydroxybenzaldehydes,[M-H]-
+C18-neg_Cluster_0004: 4-hydroxystyrene,HMDB0004072,C05627,True,4-hydroxystyrene,2.554039,119.048864,,Styrenes,[M-H]-
+HILIC-neg_Cluster_0084: 4-methylcatechol,HMDB0000873,C06730,True,4-methylcatechol,1.366308,123.045022,1.0,Phenols,[M-H]-
+HILIC-neg_Cluster_0133: 4-nitrophenol,HMDB0001232,C00870,True,4-nitrophenol,4.081432,138.019547,,Nitrophenols,[M-H]-
+HILIC-neg_Cluster_0335: 4-pyridoxate,HMDB0000017,C00847,True,4-pyridoxate,3.840545,182.045892,3.0,Pyridines and derivatives,[M-H]-
+HILIC-pos_Cluster_0422: 5-acetylamino-6-amino-3-methyluracil,HMDB0004400,C16366,True,5-acetylamino-6-amino-3-methyluracil,5.216495,199.081977,2.0,Organonitrogen compounds,[M+H]+
+HILIC-pos_Cluster_1370: 5alpha-cholestanol,HMDB0000908,,True,5alpha-cholestanol,1.699779,371.365793,29.0,,[M-H2O+H]+
+C8-pos_Cluster_0100: 7-hexadecenoic acid methyl ester,HMDB0061858,,True,7-hexadecenoic acid methyl ester,4.059965,269.247513,,Fatty acid methyl esters,[M+H]+
+C18-neg_Cluster_0901: 7-ketodeoxycholate,HMDB0000391,C04643,False,7-ketodeoxycholate,8.598227,405.264441,22.0,,[M-H]-
+HILIC-pos_Cluster_0246: 7-methylguanine,HMDB0000897,C02242,True,7-methylguanine,5.691902,166.071809,,Imidazopyrimidines,[M+H]+
+HILIC-pos_Cluster_0914: 8-hydroxy-deoxyguanosine,HMDB0003333,,True,8-hydroxy-deoxyguanosine,5.249252,284.098026,,Purine nucleosides,[M+H]+
+C18-neg_Cluster_0394: 9.10-diHOME,HMDB0004704,,True,9.10-diHOME,10.358848,313.238464,,Long-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0232: acesulfame,HMDB0033585,,False,acesulfame,3.482412,161.986314,,Organic sulfuric acids and derivatives,[M-H]-
+C18-neg_Cluster_0025: acesulfame,HMDB0033585,,False,acesulfame,1.024814,161.985411,,Organic sulfuric acids and derivatives,[M-H]-
+HILIC-neg_Cluster_0103: acetylalanine,HMDB0000766,C01073,False,acetylalanine,3.91996,130.05083,,N-acyl-L-alpha-amino acids,[M-H]-
+HILIC-pos_Cluster_0152: acetylcholine,HMDB0000895,C01996,True,acetylcholine,7.671379,146.116992,,Quaternary ammonium salts,[M+H]+
+C18-neg_Cluster_0090: acetytyrosine,HMDB0000866,C01657,True,acetytyrosine,1.126767,222.076542,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0120: adenine,HMDB0000034,C00147,True,adenine,2.271317,134.04717,1.0,Purines and purine derivatives,[M-H]-
+HILIC-pos_Cluster_0447: ADMA,HMDB0001539,C03626,True,ADMA,9.686666,203.149698,2.0,Arginine and derivatives,[M+H]+
+HILIC-pos_Cluster_0446: ADMA/SDMA*,,,False,ADMA/SDMA*,9.579272,203.149549,,Arginine and derivatives,[M+H]+
+C18-neg_Cluster_0506: adrenic acid,HMDB0002226,C16527,True,adrenic acid,15.061144,331.264136,11.0,Very long-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0015: alanine,HMDB0000161,C00041,False,alanine,3.30043,88.040286,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-pos_Cluster_0008: alanine,HMDB0000161,C00041,False,alanine,7.798448,90.055267,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0034: alpha-hydroxybutyrate,HMDB0000008,C05984,True,alpha-hydroxybutyrate,3.866533,103.039899,1.0,,[M-H]-
+HILIC-neg_Cluster_0159: alpha-ketoglutarate,HMDB0000208,C00026,True,alpha-ketoglutarate,7.756236,145.014087,,Gamma-keto acids and derivatives,[M-H]-
+HILIC-neg_Cluster_0062: alpha-ketoisovalerate,HMDB0000019,C00141,True,alpha-ketoisovalerate,3.52175,115.039921,,Keto acids and derivatives,[M-H]-
+C18-neg_Cluster_0244: alpha-linolenic acid,HMDB0001388,C06427,True,alpha-linolenic acid,13.755078,277.217171,1.0,Lineolic acids and derivatives,[M-H]-
+C18-neg_Cluster_0927: alpha-muricholate,HMDB0000506,C17647,True,alpha-muricholate,8.117757,407.279768,,,[M-H]-
+HILIC-pos_Cluster_0667: anserine,HMDB0000194,C01262,True,anserine,10.469162,241.128533,,Peptidomimetics,[M+H]+
+C18-neg_Cluster_1620: arachidonic acid,HMDB0001043,C00219,False,arachidonic acid,14.313547,507.194155,2.0,,[Unknown]-
+C18-neg_Cluster_1941: arachidonic acid,HMDB0001043,C00219,False,arachidonic acid,14.312981,575.182128,2.0,,[Unknown]-
+C18-neg_Cluster_0709: arachidonic acid,HMDB0001043,C00219,False,arachidonic acid,14.313255,371.220378,13.0,,[Unknown]-
+C18-neg_Cluster_0354: arachidonic acid,HMDB0001043,C00219,False,arachidonic acid,14.312958,303.232901,13.0,,[M-H]-
+C18-neg_Cluster_1131: arachidonic acid,HMDB0001043,C00219,False,arachidonic acid,14.313544,439.207761,13.0,,[Unknown]-
+HILIC-neg_Cluster_0290: arginine,HMDB0000517,C00062,False,arginine,4.262824,173.104141,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-pos_Cluster_0295: arginine,HMDB0000517,C00062,False,arginine,9.13588,175.118517,2.0,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0299: ascorbate,,C00072,True,ascorbate,9.502579,175.024517,,Furanones,[M-H]-
+HILIC-pos_Cluster_0099: asparagine,HMDB0000168,C00152,False,asparagine,7.9256,133.06039,,Asparagine and derivatives,[M+H]+
+HILIC-neg_Cluster_0112: asparagine,HMDB0000168,C00152,False,asparagine,3.96206,131.046065,,Asparagine and derivatives,[M-H]-
+HILIC-neg_Cluster_0117: aspartate,HMDB0000191,C00049,True,aspartate,5.346335,132.030197,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-pos_Cluster_0817: atenolol,HMDB0001924,C13235,True,atenolol,6.74024,267.169068,,Phenylacetamides,[M+H]+
+HILIC-neg_Cluster_0365: azelaic acid,HMDB0000784,C08261,False,azelaic acid,7.129824,187.097181,6.0,Fatty acids and conjugates,[M-H]-
+C18-neg_Cluster_0045: azelate,HMDB0000784,C08261,False,azelate,4.477811,187.096512,6.0,Fatty acids and conjugates,[M-H]-
+HILIC-pos_Cluster_0009: beta-alanine,HMDB0000056,C00099,True,beta-alanine,7.961105,90.055235,,"Amino acids, peptides, and analogues",[M+H]+
+C8-pos_Cluster_0515: beta-sitosterol,HMDB0000852,C01753,True,beta-sitosterol,7.722481,397.383243,,,[M-H2O+H]+
+HILIC-pos_Cluster_0048: betaine,HMDB0000043,C00719,True,betaine,8.945123,118.085992,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-pos_Cluster_2052: bilirubin,HMDB0000054,C00486,True,bilirubin,1.642753,585.267624,,,[M+H]+
+HILIC-neg_Cluster_0013: butyrate / isobutytare*,,,False,butyrate / isobutytare*,3.914183,87.045064,,Straight chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0151: butyrobetaine,HMDB0001161,C01181,True,butyrobetaine,8.675049,146.116967,,Fatty acids and conjugates,[M+H]+
+HILIC-pos_Cluster_1374: C14 carnitine,,,True,C14 carnitine,6.681222,372.309038,1.0,Acyl carnitines,[M+H]+
+C8-pos_Cluster_1303: C14:0 CE,,,True,C14:0 CE,11.552452,619.542184,1.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1521: C14:0 SM,,,True,C14:0 SM,7.525761,675.54142,,Sphingolipids,[M+H]+
+HILIC-pos_Cluster_1486: C16 carnitine,,,True,C16 carnitine,6.561967,400.34031,3.0,Acyl carnitines,[M+H]+
+C8-pos_Cluster_1395: C16:0 CE,,,True,C16:0 CE,11.973232,647.573818,9.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1375: C16:0 CE,,,True,C16:0 CE,11.968649,642.618861,,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1004: C16:0 ceramide (d18:1),,,True,C16:0 ceramide (d18:1),8.197254,538.519883,6.0,Sphingolipids,[M+H]+
+C8-pos_Cluster_0878: C16:0 LPC,,,True,C16:0 LPC,4.767281,496.339905,14.0,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+HILIC-pos_Cluster_1684: C16:0 LPE,,,True,C16:0 LPE,6.263367,454.290967,,1-acyl-sn-glycero-3-phosphoethanolamines,[M+H]+
+C8-pos_Cluster_1657: C16:0 SM,,,True,C16:0 SM,8.053829,703.574815,9.0,Sphingolipids,[M+H]+
+HILIC-pos_Cluster_2293: C16:0 SM,,,True,C16:0 SM,7.126087,703.571469,9.0,Sphingolipids,[M+H]+
+C8-pos_Cluster_1369: C16:1 CE,,,True,C16:1 CE,11.625544,640.602783,2.0,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1386: C16:1 CE*,,,False,C16:1 CE*,11.627639,645.557757,2.0,Cholesteryl esters,[M+Na]+
+HILIC-pos_Cluster_1773: C16:1 LPC plasmalogen*,,,False,C16:1 LPC plasmalogen*,7.530619,480.342826,14.0,1-(1Z-alkenyl)-glycero-3-phosphocholines,[M+H]+
+C8-pos_Cluster_0354: C16:1 MAG,,,True,C16:1 MAG,4.959597,351.250395,,1-monoacylglycerols,[M+Na]+
+C8-pos_Cluster_0313: C16:1 MAG*,,,False,C16:1 MAG*,4.840698,339.250073,,1-monoacylglycerols,
+C8-pos_Cluster_1647: C16:1 SM,,,True,C16:1 SM,7.695674,701.556757,,,[M+Na]+
+HILIC-pos_Cluster_1593: C18 carnitine,,,True,C18 carnitine,6.455731,428.37169,1.0,Acyl carnitines,[M+H]+
+C8-pos_Cluster_1525: C18:0 CE,,,True,C18:0 CE,12.387281,675.604039,1.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1502: C18:0 CE,,,True,C18:0 CE,12.372106,670.650143,,Cholesteryl esters,[M+NH4]+
+HILIC-pos_Cluster_1899: C18:0 LPC,,,True,C18:0 LPC,7.570429,524.369027,,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+C8-pos_Cluster_0949: C18:0 LPC,,,True,C18:0 LPC,5.303413,524.371152,9.0,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+C8-pos_Cluster_0467: C18:0 MAG,,,True,C18:0 MAG,5.72305,381.296567,,1-monoacylglycerols,[M+Na]+
+C8-pos_Cluster_0446: C18:0 MAG,,,True,C18:0 MAG,5.71969,376.340419,,1-monoacylglycerols,[M+NH4]+
+C8-pos_Cluster_1758: C18:0 SM,,,True,C18:0 SM,8.557205,731.606607,1.0,Sphingolipids,[M+H]+
+C8-pos_Cluster_0410: C18:0e MAG,,,True,C18:0e MAG,6.190883,367.318449,10.0,Monoalkylglycerols,[M+Na]+
+C8-pos_Cluster_0338: C18:0e MAG,,,True,C18:0e MAG,6.184319,345.336485,10.0,Monoalkylglycerols,[M+H]+
+HILIC-pos_Cluster_1586: C18:1 carnitine,,,True,C18:1 carnitine,6.477161,426.355876,3.0,Fatty acid esters,[M+H]+
+C8-pos_Cluster_1490: C18:1 CE,,,True,C18:1 CE,12.043032,668.634054,,,[M+NH4]+
+C8-pos_Cluster_1514: C18:1 CE  ,,,True,C18:1 CE,12.049957,673.58944,9.0,,[M+Na]+
+C8-pos_Cluster_0945: C18:1 LPC,,,True,C18:1 LPC,4.938243,522.355717,,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+HILIC-pos_Cluster_1855: C18:1 LPC plasmalogen*,,,False,C18:1 LPC plasmalogen*,7.738521,508.374035,22.0,1-(1Z-alkenyl)-glycero-3-phosphocholines,[M+H]+
+HILIC-pos_Cluster_1893: C18:1 LPC*,,,False,C18:1 LPC*,7.615695,522.3534,,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+HILIC-pos_Cluster_1580: C18:2 carnitine,,,True,C18:2 carnitine,6.524092,424.340387,3.0,Acyl carnitines,[M+H]+
+C8-pos_Cluster_1478: C18:2 CE,,,True,C18:2 CE,11.716127,666.618408,9.0,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1504: C18:2 CE*,,,False,C18:2 CE*,11.726673,671.573482,9.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_0939: C18:2 LPC,,,True,C18:2 LPC,4.600409,520.340406,,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+C8-pos_Cluster_1468: C18:3 CE,,,True,C18:3 CE,11.45202,664.602057,,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1494: C18:3 CE*,,,False,C18:3 CE*,11.453383,669.558808,9.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_0936: C18:3 LPC,,,True,C18:3 LPC,4.766593,518.321945,14.0,1-acyl-sn-glycero-3-phosphocholines,[M+H]+
+HILIC-pos_Cluster_0453: C2 carnitine,,,True,C2 carnitine,8.585624,204.12232,,,[M+H]+
+HILIC-pos_Cluster_1691: C20 carnitine,,,True,C20 carnitine,6.358002,456.402781,,Acyl carnitines,[M+H]+
+C8-pos_Cluster_0915: C20:0 LPE,,,True,C20:0 LPE,5.028875,510.356003,,1-acyl-sn-glycero-3-phosphoethanolamines,[M+H]+
+C8-pos_Cluster_1610: C20:3 CE,,,True,C20:3 CE,11.82771,692.632743,,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1635: C20:3 CE*,,,False,C20:3 CE*,11.837011,697.588338,,Cholesteryl esters,[M+Na]+
+HILIC-pos_Cluster_1673: C20:4 carnitine,,,True,C20:4 carnitine,6.219689,448.340197,18.0,,[M+Na]+
+C8-pos_Cluster_1623: C20:4 CE,,,True,C20:4 CE,11.573799,695.573841,9.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1597: C20:4 CE,,,True,C20:4 CE,11.569904,690.618702,9.0,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1614: C20:5 CE,,,True,C20:5 CE,11.316771,693.560861,1.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1012: C20:5 LPC,,,True,C20:5 LPC,4.607839,542.321749,,1-acyl-sn-glycero-3-phosphocholines,[M+Na]+
+C8-pos_Cluster_1888: C22:0 SM,,,True,C22:0 SM,9.45803,787.669656,9.0,Sphingolipids,[M+H]+
+C8-pos_Cluster_0678: C22:1 MAG,,,True,C22:1 MAG,6.778841,435.344659,,1-monoacylglycerols,[M+Na]+
+C8-pos_Cluster_1884: C22:1 SM,,,True,C22:1 SM,9.157656,785.653145,,Sphingolipids,[M+H]+
+C8-pos_Cluster_1722: C22:4 CE,,,True,C22:4 CE,11.949042,718.649241,1.0,Cholesteryl esters,[M+NH4]+
+C8-pos_Cluster_1742: C22:4 CE*,,,False,C22:4 CE*,11.950582,723.605699,1.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1712: C22:5 CE,,,True,C22:5 CE,11.672278,716.636644,1.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1736: C22:5 CE*,,,False,C22:5 CE*,11.681478,721.593876,1.0,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1726: C22:6 CE,,,True,C22:6 CE,11.439325,719.574628,,Cholesteryl esters,[M+Na]+
+C8-pos_Cluster_1970: C24:0 SM,,,True,C24:0 SM,9.8734,815.697986,9.0,Sphingolipids,[M+H]+
+C8-pos_Cluster_0868: C24:0 TAG,,,True,C24:0 TAG,6.457357,493.359345,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2019: C24:1 SM ,,,True,C24:1 SM,9.493713,835.666318,1.0,Sphingolipids,[M+Na]+
+C8-pos_Cluster_1965: C24:1 SM,,,True,C24:1 SM,9.494136,813.684583,9.0,Sphingolipids,[M+H]+
+HILIC-pos_Cluster_0790: C3-DC-CH3 carnitine,,,True,C3-DC-CH3 carnitine,8.496401,262.127486,1.0,Acyl carnitines,[M+H]+
+C8-pos_Cluster_1070: C30:0 DAG,,,True,C30:0 DAG,8.556091,563.467383,,"1,2-diacylglycerols",[M+Na]+
+C8-pos_Cluster_1186: C32:0 DAG,,,True,C32:0 DAG,9.032395,591.495675,,"1,2-diacylglycerols",[M+Na]+
+C8-pos_Cluster_1761: C32:1 PC,,,True,C32:1 PC,8.182908,732.555334,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1146: C32:2 DAG*,,,False,C32:2 DAG*,8.383768,582.512028,,"1,2-diacylglycerols",[M+NH4]+
+C8-pos_Cluster_1302: C34:0 DAG*,,,False,C34:0 DAG*,9.451524,619.526096,,"1,2-diacylglycerols",[M+Na]+
+C8-pos_Cluster_1727: C34:0 PE,,,True,C34:0 PE,8.234821,720.552435,,Phosphatidylethanolamines,[M+H]+
+C8-pos_Cluster_1277: C34:1 DAG*,,,False,C34:1 DAG*,9.166925,612.556705,,"1,2-diacylglycerols",[M+NH4]+
+C8-pos_Cluster_1821: C34:1 PC,,,True,C34:1 PC,8.644594,760.585077,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1800: C34:1 PC plasmalogen-A,,,True,C34:1 PC plasmalogen-A,8.937513,746.606622,1.0,"1-(1Z-alkenyl),2-acyl-glycerophosphocholines",[M+H]+
+C8-pos_Cluster_1291: C34:2 DAG,,,True,C34:2 DAG,8.857822,615.496328,33.0,Lineolic acids and derivatives,[M+Na]+
+C8-pos_Cluster_1271: C34:2 DAG*,,,False,C34:2 DAG*,8.857536,610.541065,33.0,Lineolic acids and derivatives,[M+NH4]+
+C8-pos_Cluster_1817: C34:2 PC,,,True,C34:2 PC,8.33618,758.569056,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1282: C34:3 DAG,,,True,C34:3 DAG,8.566257,613.481674,1.0,Lineolic acids and derivatives,[M+Na]+
+C8-pos_Cluster_1262: C34:3 DAG*,,,False,C34:3 DAG*,8.565138,608.522785,1.0,Lineolic acids and derivatives,[M+NH4]+
+C8-pos_Cluster_1393: C36:0 DAG,,,True,C36:0 DAG,9.841556,647.558665,,"1,2-diacylglycerols",[M+Na]+
+C8-pos_Cluster_1889: C36:1 PC,,,True,C36:1 PC,9.080408,788.615447,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1377: C36:2 DAG,,,True,C36:2 DAG,9.289662,643.529436,,,[M+Na]+
+C8-pos_Cluster_1364: C36:2 DAG*,,,False,C36:2 DAG*,9.289324,638.572444,33.0,,[M+NH4]+
+C8-pos_Cluster_1886: C36:2 PC,,,True,C36:2 PC,8.799074,786.599895,,,[M+H]+
+C8-pos_Cluster_1856: C36:2 PC plasmalogen,,,True,C36:2 PC plasmalogen,9.078802,772.622539,2.0,"1-(1Z-alkenyl),2-acyl-glycerophosphocholines",[M+H]+
+HILIC-pos_Cluster_2372: C36:2 PC*,,,False,C36:2 PC*,6.491711,786.59628,,,[M+H]+
+C8-pos_Cluster_1373: C36:3 DAG,,,True,C36:3 DAG,8.991042,641.512618,,Lineolic acids and derivatives,[M+Na]+
+C8-pos_Cluster_1358: C36:3 DAG*,,,False,C36:3 DAG*,8.989347,636.558642,33.0,Lineolic acids and derivatives,[M+NH4]+
+C8-pos_Cluster_1879: C36:3 PC,,,True,C36:3 PC,8.497757,784.586819,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1367: C36:4 DAG,,,True,C36:4 DAG,8.686175,639.497236,33.0,Lineolic acids and derivatives,[M+Na]+
+C8-pos_Cluster_1351: C36:4 DAG*,,,False,C36:4 DAG*,8.686777,634.541003,33.0,Lineolic acids and derivatives,[M+NH4]+
+C8-pos_Cluster_1873: C36:4 PC-A,,,True,C36:4 PC-A,8.140944,782.570672,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1874: C36:4 PC-B,,,True,C36:4 PC-B,8.357279,782.568897,,Phosphatidylcholines,[M+H]+
+C8-pos_Cluster_1833: C36:5 PC plasmalogen-A,,,True,C36:5 PC plasmalogen-A,8.250746,766.57843,1.0,"1-(1Z-alkenyl),2-acyl-glycerophosphocholines",[M+H]+
+C8-pos_Cluster_1835: C36:5 PC plasmalogen-B,,,True,C36:5 PC plasmalogen-B,8.644664,766.572988,,"1-(1Z-alkenyl),2-acyl-glycerophosphocholines",[M+H]+
+C8-pos_Cluster_1473: C38:5 DAG*,,,False,C38:5 DAG*,8.943306,665.512314,,"1,2-diacylglycerols",[M+Na]+
+HILIC-pos_Cluster_0625: C4 carnitine,,,True,C4 carnitine,7.889518,232.153366,1.0,,[M+H]+
+C8-pos_Cluster_1799: C42:0 TAG,,,True,C42:0 TAG,10.826807,745.631439,,,[M+Na]+
+C8-pos_Cluster_1791: C42:0 TAG,,,True,C42:0 TAG,10.82465,740.678078,,,[M+NH4]+
+C8-pos_Cluster_1861: C44:0 TAG,,,True,C44:0 TAG,11.187668,773.661475,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_1848: C44:0 TAG*,,,False,C44:0 TAG*,11.184397,768.708936,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_1854: C44:1 TAG,,,True,C44:1 TAG,10.928481,771.647572,,,[M+Na]+
+C8-pos_Cluster_1837: C44:1 TAG,,,True,C44:1 TAG,10.923041,766.692069,1.0,,[M+NH4]+
+C8-pos_Cluster_1932: C46:0 TAG,,,True,C46:0 TAG,11.526179,801.69486,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_1912: C46:0 TAG*,,,False,C46:0 TAG*,11.529201,796.739627,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_1922: C46:1 TAG,,,True,C46:1 TAG,11.275558,799.678727,,,[M+Na]+
+C8-pos_Cluster_1907: C46:1 TAG*,,,False,C46:1 TAG*,11.276498,794.722711,,,[M+NH4]+
+C8-pos_Cluster_1915: C46:2 TAG,,,True,C46:2 TAG,11.024304,797.661789,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_1902: C46:2 TAG*,,,False,C46:2 TAG*,11.023945,792.70552,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2003: C48:0 TAG,,,True,C48:0 TAG,11.860174,829.724585,,,[M+Na]+
+C8-pos_Cluster_1992: C48:0 TAG*,,,False,C48:0 TAG*,11.861366,824.769991,,,[M+NH4]+
+C8-pos_Cluster_1997: C48:1 TAG,,,True,C48:1 TAG,11.609059,827.710874,,,[M+Na]+
+C8-pos_Cluster_1995: C48:2 TAG,,,True,C48:2 TAG,11.362544,825.694264,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_1976: C48:2 TAG*,,,False,C48:2 TAG*,11.367011,820.737416,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_1987: C48:3 TAG,,,True,C48:3 TAG,11.118497,823.679486,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_1980: C48:4 TAG,,,True,C48:4 TAG,10.864176,821.664125,,,[M+Na]+
+C8-pos_Cluster_2022: C49:1 TAG,,,True,C49:1 TAG,11.764544,836.7706,,,[M+NH4]+
+C8-pos_Cluster_2088: C50:0 TAG,,,True,C50:0 TAG,12.228235,857.756895,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2081: C50:1 TAG,,,True,C50:1 TAG,11.95418,855.741439,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2064: C50:1 TAG*,,,False,C50:1 TAG*,11.953231,850.785964,33.0,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2075: C50:2 TAG,,,True,C50:2 TAG,11.695456,853.726038,,,[M+Na]+
+C8-pos_Cluster_2069: C50:3 TAG,,,True,C50:3 TAG,11.456274,851.709849,,,[M+Na]+
+C8-pos_Cluster_2046: C50:3 TAG*,,,False,C50:3 TAG*,11.453267,846.754105,,,[M+NH4]+
+C8-pos_Cluster_2056: C50:4 TAG,,,True,C50:4 TAG,11.215287,849.693242,,,[M+Na]+
+C8-pos_Cluster_2040: C50:4 TAG*,,,False,C50:4 TAG*,11.211007,844.740122,,,[M+NH4]+
+C8-pos_Cluster_2048: C50:5 TAG,,,True,C50:5 TAG,10.955001,847.680515,,,[M+Na]+
+C8-pos_Cluster_2130: C51:0 TAG*,,,False,C51:0 TAG*,12.403503,871.768451,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2117: C51:2 TAG*,,,False,C51:2 TAG*,11.862853,867.742378,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2102: C51:2 TAG*,,,False,C51:2 TAG*,11.864224,862.785469,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2094: C51:3 TAG*,,,False,C51:3 TAG*,11.611665,860.770334,,,[M+NH4]+
+C8-pos_Cluster_2168: C52:0 TAG,,,True,C52:0 TAG,12.605217,885.787857,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2154: C52:0 TAG*,,,False,C52:0 TAG*,12.610295,880.832798,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2161: C52:1 TAG,,,True,C52:1 TAG,12.311181,883.772469,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2147: C52:1 TAG*,,,False,C52:1 TAG*,12.304073,878.810885,1.0,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2156: C52:2 TAG,,,True,C52:2 TAG,12.046012,881.757443,,,[M+Na]+
+C8-pos_Cluster_2140: C52:2 TAG*,,,False,C52:2 TAG*,12.044946,876.802961,33.0,,[M+NH4]+
+C8-pos_Cluster_2149: C52:3 TAG,,,True,C52:3 TAG,11.790252,879.741796,33.0,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2136: C52:3 TAG*,,,False,C52:3 TAG*,11.787681,874.786794,33.0,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2141: C52:4 TAG,,,True,C52:4 TAG,11.540259,877.725965,33.0,,[M+Na]+
+C8-pos_Cluster_2132: C52:4 TAG*,,,False,C52:4 TAG*,11.539806,872.77143,33.0,,[M+NH4]+
+C8-pos_Cluster_2138: C52:5 TAG,,,True,C52:5 TAG,11.307026,875.712613,9.0,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2124: C52:5 TAG*,,,False,C52:5 TAG*,11.307079,870.755439,9.0,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2134: C52:6 TAG,,,True,C52:6 TAG,11.066022,873.694315,9.0,,[M+Na]+
+C8-pos_Cluster_2119: C52:6 TAG*,,,False,C52:6 TAG*,11.066136,868.738923,1.0,,[M+NH4]+
+C8-pos_Cluster_2128: C52:7 TAG,,,True,C52:7 TAG,10.821649,871.682557,,,[M+Na]+
+C8-pos_Cluster_2178: C53:3 TAG*,,,False,C53:3 TAG*,11.96217,888.798113,,,[M+NH4]+
+C8-pos_Cluster_2192: C53:3 TAG*,,,False,C53:3 TAG*,11.968144,893.7566,,,[M+Na]+
+C8-pos_Cluster_2242: C54:1 TAG,,,True,C54:1 TAG,12.68823,911.805326,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2240: C54:2 TAG,,,True,C54:2 TAG,12.407129,909.790505,33.0,,[M+Na]+
+C8-pos_Cluster_2233: C54:3 TAG,,,True,C54:3 TAG,12.150266,907.772896,33.0,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2218: C54:3 TAG*,,,False,C54:3 TAG*,12.147274,902.816707,33.0,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2226: C54:4 TAG,,,True,C54:4 TAG,11.891407,905.756823,33.0,,[M+Na]+
+C8-pos_Cluster_2211: C54:4 TAG*,,,False,C54:4 TAG*,11.888264,900.802205,33.0,,[M+NH4]+
+C8-pos_Cluster_2220: C54:5 TAG,,,True,C54:5 TAG,11.640319,903.742499,33.0,,[M+Na]+
+C8-pos_Cluster_2207: C54:5 TAG*,,,False,C54:5 TAG*,11.63787,898.786339,33.0,,[M+NH4]+
+C8-pos_Cluster_2215: C54:6 TAG,,,True,C54:6 TAG,11.397791,901.725337,33.0,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2201: C54:6 TAG*,,,False,C54:6 TAG*,11.395511,896.771255,33.0,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2210: C54:7 TAG,,,True,C54:7 TAG,11.166372,899.709334,9.0,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2202: C54:8 TAG,,,True,C54:8 TAG,10.918401,897.696173,9.0,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2197: C54:9 TAG,,,True,C54:9 TAG,10.673255,895.679848,2.0,,[M+Na]+
+C8-pos_Cluster_2284: C55:2 TAG*,,,False,C55:2 TAG*,12.586698,923.7993,,,[M+Na]+
+C8-pos_Cluster_2277: C55:3 TAG*,,,False,C55:3 TAG*,12.315409,921.785871,,,[M+Na]+
+C8-pos_Cluster_2319: C56:1 TAG,,,True,C56:1 TAG,13.10915,939.834558,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2308: C56:1 TAG*,,,False,C56:1 TAG*,13.10671,934.879787,,Triacylglycerols,[M+NH4]+
+C8-pos_Cluster_2313: C56:2 TAG,,,True,C56:2 TAG,12.791268,937.820021,33.0,,[M+Na]+
+C8-pos_Cluster_2306: C56:2 TAG*,,,False,C56:2 TAG*,12.789232,932.864434,,,[M+NH4]+
+C8-pos_Cluster_2311: C56:3 TAG,,,True,C56:3 TAG,12.502167,935.805034,33.0,,[M+Na]+
+C8-pos_Cluster_2303: C56:3 TAG*,,,False,C56:3 TAG*,12.499672,930.847883,33.0,,[M+NH4]+
+C8-pos_Cluster_2307: C56:4 TAG,,,True,C56:4 TAG,12.234596,933.789253,33.0,,[M+Na]+
+C8-pos_Cluster_2297: C56:4 TAG*,,,False,C56:4 TAG*,12.231816,928.83376,33.0,,[M+NH4]+
+C8-pos_Cluster_2304: C56:5 TAG,,,True,C56:5 TAG,11.970845,931.772886,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2300: C56:6 TAG,,,True,C56:6 TAG,11.721509,929.758223,,,[M+Na]+
+C8-pos_Cluster_2286: C56:6 TAG*,,,False,C56:6 TAG*,11.729345,924.801313,,,[M+NH4]+
+C8-pos_Cluster_2293: C56:7 TAG,,,True,C56:7 TAG,11.482028,927.743962,,Triacylglycerols,[M+Na]+
+C8-pos_Cluster_2345: C58:6 TAG,,,True,C58:6 TAG,12.067555,957.790733,,,[M+Na]+
+C8-pos_Cluster_2341: C58:7 TAG,,,True,C58:7 TAG,11.816957,955.767833,,Triacylglycerols,[M+Na]+
+HILIC-pos_Cluster_0405: caffeine,HMDB0001847,C07481,True,caffeine,2.823607,195.08719,,Purines and purine derivatives,[M+H]+
+HILIC-neg_Cluster_0064: caproic acid,HMDB0000535,C01585,True,caproic acid,3.727128,115.076515,2.0,Medium-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0156: caprylic acid,HMDB0000482,C06423,True,caprylic acid,3.603307,143.107448,1.0,Medium-chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0230: carnitine,HMDB0000062,C00318,True,carnitine,8.756221,162.111937,1.0,Quaternary ammonium salts,[M+H]+
+HILIC-pos_Cluster_0590: carnosine,HMDB0000033,C00386,True,carnosine,9.298983,227.11306,1.0,Peptidomimetics,[M+H]+
+C18-neg_Cluster_0486: carnosol,HMDB0002121,C09069,True,carnosol,10.794002,329.175684,2.0,Diterpene lactones,[M-H]-
+C18-neg_Cluster_1292: chenodeoxycholate,HMDB0000518,C02528,False,chenodeoxycholate,10.556944,459.272582,11.0,"Bile acids, alcohols and derivatives",[Unknown]-
+C18-neg_Cluster_1045: chenodeoxycholate,HMDB0000518,C02528,False,chenodeoxycholate,10.555839,427.261603,39.0,"Bile acids, alcohols and derivatives",[M+Cl]-
+C18-neg_Cluster_0832: chenodeoxycholate,HMDB0000518,C02528,False,chenodeoxycholate,10.555098,391.284991,11.0,"Bile acids, alcohols and derivatives",[M-H]-
+C18-neg_Cluster_1060: chenodeoxycholate,HMDB0000518,C02528,False,chenodeoxycholate,10.555864,429.258863,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+C18-neg_Cluster_1129: chenodeoxycholate,HMDB0000518,C02528,False,chenodeoxycholate,10.556245,438.291909,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+HILIC-neg_Cluster_1360: chenodeoxycholate/deoxycholate*,,,False,chenodeoxycholate/deoxycholate*,4.051794,391.285236,,"Bile acids, alcohols and derivatives",[M-H]-
+C18-neg_Cluster_0930: cholate,HMDB0000619,C00695,False,cholate,9.127927,407.280078,39.0,"Bile acids, alcohols and derivatives",[M-H]-
+C18-neg_Cluster_1258: cholate,HMDB0000619,C00695,False,cholate,9.128415,453.286095,39.0,"Bile acids, alcohols and derivatives",[M+FA-H]-
+C18-neg_Cluster_1372: cholate,HMDB0000619,C00695,False,cholate,9.126423,470.275041,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+HILIC-neg_Cluster_1403: cholate,HMDB0000619,C00695,False,cholate,4.211117,407.279787,39.0,"Bile acids, alcohols and derivatives",[M-H]-
+C18-neg_Cluster_1178: cholate,HMDB0000619,C00695,False,cholate,9.128149,445.25325,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+C18-neg_Cluster_1273: cholate,HMDB0000619,C00695,False,cholate,9.127798,455.290179,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+C18-neg_Cluster_1621: cholate,HMDB0000619,C00695,False,cholate,9.126215,507.20441,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+C18-neg_Cluster_1722: cholate,HMDB0000619,C00695,False,cholate,9.127678,525.214869,39.0,"Bile acids, alcohols and derivatives",[Unknown]-
+C8-pos_Cluster_1900: cholestenone,HMDB0000921,C00599,False,cholestenone,7.005319,791.667671,7.0,Cholesterols and derivatives,[2M+Na]+
+C8-pos_Cluster_1849: cholestenone,HMDB0000921,C00599,False,cholestenone,7.003781,769.684326,7.0,Cholesterols and derivatives,[2M+H]+
+C8-pos_Cluster_0705: cholestenone,HMDB0000921,C00599,False,cholestenone,7.003234,443.399209,7.0,Cholesterols and derivatives,[Unknown]
+C8-pos_Cluster_0629: cholestenone,HMDB0000921,C00599,False,cholestenone,7.005191,425.338977,7.0,Cholesterols and derivatives,[M-H2O+Na]+
+C8-pos_Cluster_0478: cholestenone,HMDB0000921,C00599,False,cholestenone,7.006923,385.346243,7.0,Cholesterols and derivatives,[M+H]+
+C8-pos_Cluster_0554: cholestenone,HMDB0000921,C00599,False,cholestenone,7.008068,407.328289,7.0,Cholesterols and derivatives,[M+Na]+
+C8-pos_Cluster_0416: cholesterol,HMDB0000067,C00187,True,cholesterol,7.217012,369.351917,,,[M-H2O+Na]+
+HILIC-pos_Cluster_0022: choline,HMDB0000097,C00114,True,choline,8.170531,104.107031,,Quaternary ammonium salts,[M+H]+
+HILIC-neg_Cluster_0392: citrate,HMDB0000094,C00158,True,citrate,9.415773,191.019484,,Tricarboxylic acids and derivatives,[M-H]-
+HILIC-pos_Cluster_0306: citrulline,HMDB0000904,C00327,False,citrulline,8.357386,176.102204,,L-alpha-amino acids,[M+H]+
+HILIC-neg_Cluster_0296: citrulline,HMDB0000904,C00327,False,citrulline,3.641507,174.088119,,L-alpha-amino acids,[M-H]-
+HILIC-pos_Cluster_0090: creatine,HMDB0000064,C00300,True,creatine,8.298269,132.07633,2.0,Alpha amino acids and derivatives,[M+H]+
+HILIC-pos_Cluster_0036: creatinine,HMDB0000562,C00791,True,creatinine,6.423718,114.066154,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0677: cystine,HMDB0000192,C00491,True,cystine,6.288915,239.01636,3.0,L-cysteine-S-conjugates,[M-H]-
+HILIC-pos_Cluster_0032: cytosine,HMDB0000630,C00380,True,cytosine,6.12461,112.050537,,,[M+H]+
+C18-neg_Cluster_0833: deoxycholic acid,HMDB0000626,C04483,True,deoxycholic acid,10.769622,391.285468,,"Bile acids, alcohols and derivatives",[M-H]-
+HILIC-pos_Cluster_0734: deoxyinosine,HMDB0000071,C05512,False,deoxyinosine,4.976754,253.092331,,Purine nucleosides,[M+H]+
+HILIC-neg_Cluster_0740: deoxyinosine,HMDB0000071,C05512,False,deoxyinosine,2.786193,251.078022,,Purine nucleosides,[M-H]-
+HILIC-pos_Cluster_0936: diacetylspermine,HMDB0002172,C03413,True,diacetylspermine,10.204002,287.242938,,Acetamides,[M+H]+
+HILIC-neg_Cluster_0199: dihydroxybenzoic acid,,,True,dihydroxybenzoic acid,4.819288,153.018996,,Benzoic acids and derivatives,[M-H]-
+HILIC-pos_Cluster_0298: dimethyllysine,HMDB0013287,C05545,False,dimethyllysine,10.220459,175.143734,2.0,Alpha amino acids,[M+H]+
+C18-neg_Cluster_0472: docosahexaenoic acid,HMDB0002183,C06429,True,docosahexaenoic acid,14.089371,327.23262,13.0,,[M-H]-
+HILIC-neg_Cluster_1126: docosapentaenoate,HMDB0001976,,True,docosapentaenoate,3.185725,329.248268,11.0,Very long-chain fatty acids,[M-H]-
+C18-neg_Cluster_0863: docosapentaenoic acid,HMDB0006528,C16513,False,docosapentaenoic acid,14.443008,397.235541,11.0,Very long-chain fatty acids,[M-H+Na-2H]-
+C18-neg_Cluster_0490: docosapentaenoic acid,HMDB0006528,C16513,False,docosapentaenoic acid,14.446319,329.248634,11.0,Very long-chain fatty acids,[M-H]-
+C18-neg_Cluster_0729: docosapentaenoic acid ,HMDB0006528,C16513,False,docosapentaenoic acid,14.444973,375.253555,5.0,Very long-chain fatty acids,[M+FA-H]-
+C18-neg_Cluster_1324: docosapentaenoic acid ,HMDB0006528,C16513,False,docosapentaenoic acid,14.441559,465.223168,11.0,Very long-chain fatty acids,[Unknown]-
+C18-neg_Cluster_0111: dodecanedioic acid,HMDB0000623,C02678,True,dodecanedioic acid,8.008681,229.143876,1.0,Medium-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_1002: eicosapentaenoic acid,HMDB0001999,C06428,False,eicosapentaenoic acid,3.237376,301.216907,1.0,Fatty acids and conjugates,[M-H]-
+C18-neg_Cluster_0351: eicosapentaenoic acid,HMDB0001999,C06428,False,eicosapentaenoic acid,13.624069,301.217166,,Fatty acids and conjugates,[M-H]-
+C18-neg_Cluster_0361: eicosatrienoic acid,HMDB0002925,C03242,False,eicosatrienoic acid,14.77699,305.248483,11.0,Long-chain fatty acids,[M-H]-
+C18-neg_Cluster_0591: eicosatrienoic acid,HMDB0002925,C03242,False,eicosatrienoic acid,14.777768,351.253912,5.0,Long-chain fatty acids,[M+FA-H]-
+C18-neg_Cluster_0373: eicosenoate,HMDB0002231,C16526,True,eicosenoate,16.115366,309.279965,,Long-chain fatty acids,[M-H]-
+C8-pos_Cluster_0737: epoxysqualene,,,True,epoxysqualene,7.858286,449.374078,,,[M+Na]+
+HILIC-neg_Cluster_0122: erythronic acid,HMDB0000613,,True,erythronic acid,4.425442,135.029822,1.0,,[M-H]-
+HILIC-pos_Cluster_0913: ethyl 9-hexadecenoate,HMDB0059871,,True,ethyl 9-hexadecenoate,1.683218,283.262043,29.0,Fatty acid esters,[M+H]+
+HILIC-neg_Cluster_0562: ethyl glucuronide,HMDB0010325,,True,ethyl glucuronide,4.030186,221.066307,,O-glucuronides,[M-H]-
+HILIC-neg_Cluster_0321: fructose/glucose/galactose*,,,False,fructose/glucose/galactose*,2.156899,179.055912,,Hexoses,[M-H]-
+HILIC-neg_Cluster_0237: fucose,HMDB0012327,C02781,True,fucose,1.587833,163.061029,,Hexoses,[M-H]-
+HILIC-neg_Cluster_0061: fumarate/maleate*,,,False,fumarate/maleate*,7.325485,115.00351,,,[M-H]-
+HILIC-pos_Cluster_0657: geranyl acetoacetate*,HMDB0038256,,False,geranyl acetoacetate*,1.751914,239.163339,,Fatty alcohol esters,[M+H]+
+HILIC-pos_Cluster_0658: geranyl acetoacetate*,HMDB0038256,,False,geranyl acetoacetate*,1.89888,239.163255,5.0,Fatty alcohol esters,[M+H]+
+HILIC-neg_Cluster_0401: glucurote,HMDB0000127,C00191,True,glucurote,5.450615,193.035127,,Glucuronic acid derivatives,[M-H]-
+HILIC-neg_Cluster_0166: glutamate,HMDB0000148,C00025,False,glutamate,5.321273,146.045723,,Glutamic acid and derivatives,[M-H]-
+HILIC-pos_Cluster_0160: glutamate,HMDB0000148,C00025,False,glutamate,7.613393,148.059769,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0162: glutamine,HMDB0000641,C00064,False,glutamine,3.695059,145.06182,,L-alpha-amino acids,[M-H]-
+HILIC-pos_Cluster_0156: glutamine,HMDB0000641,C00064,False,glutamine,8.046524,147.075928,,L-alpha-amino acids,[M+H]+
+HILIC-neg_Cluster_0036: glycerate,HMDB0000139,C00258,True,glycerate,4.394749,105.019192,,Sugar acids and derivatives,[M-H]-
+HILIC-neg_Cluster_1571: glycocholate,HMDB0000138,C01921,True,glycocholate,4.042977,464.301241,,,[M-H]-
+C18-neg_Cluster_1196: glycodeoxycholic acid,HMDB0000631,C05464,True,glycodeoxycholic acid,9.51775,448.306747,,,[M-H]-
+C18-neg_Cluster_1081: glycolithocholic acid,HMDB0000698,C15557,True,glycolithocholic acid,10.904173,432.311815,,,[M-H]-
+C18-neg_Cluster_1197: glycoursodeoxycholic acid,HMDB0000708,,True,glycoursodeoxycholic acid,8.102488,448.30686,,,[M-H]-
+HILIC-neg_Cluster_0182: guanine,HMDB0000132,C00242,True,guanine,2.648227,150.041827,2.0,Imidazopyrimidines,[M-H]-
+HILIC-neg_Cluster_0909: guanosine,HMDB0000133,C00387,True,guanosine,3.055665,282.084094,,Purine nucleosides,[M-H]-
+HILIC-neg_Cluster_0841: heptadecanoate,HMDB0002259,,True,heptadecanoate,3.279936,269.248492,,Long-chain fatty acids,[M-H]-
+C18-neg_Cluster_0268: hexadecanedioic acid,HMDB0000672,C19615,True,hexadecanedioic acid,10.78202,285.206703,1.0,Long-chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0033: histamine,HMDB0000870,C00388,True,histamine,9.120918,112.086877,,,[M+H]+
+HILIC-neg_Cluster_0201: histidine,HMDB0000177,C00135,True,histidine,4.037108,154.061827,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-neg_Cluster_0328: homovanillate,HMDB0000118,C05582,True,homovanillate,4.570257,181.050492,,Phenols,[M-H]-
+HILIC-neg_Cluster_0181: hydrocinnamic acid,HMDB0000764,C05629,True,hydrocinnamic acid,3.875114,149.060668,1.0,,[M-H]-
+HILIC-neg_Cluster_0070: hydroxyisovaleric acid,,,True,hydroxyisovaleric acid,3.714219,117.055643,,Hydroxy fatty acids,[M-H]-
+HILIC-pos_Cluster_0089: hydroxyproline,HMDB0240251,C01015,True,hydroxyproline,7.892168,132.065131,,,[M+H]+
+C18-neg_Cluster_0830: hyodeoxycholate/ursodeoxycholate*,,,False,hyodeoxycholate/ursodeoxycholate*,9.249408,391.28509,,,[M-H]-
+HILIC-neg_Cluster_0123: hypoxanthine,HMDB0000157,C00262,False,hypoxanthine,3.252362,135.031148,,Purines and purine derivatives,[M-H]-
+HILIC-pos_Cluster_0108: hypoxanthine,HMDB0000157,C00262,False,hypoxanthine,4.825592,137.045333,,Purines and purine derivatives,[M+H]+
+HILIC-pos_Cluster_0121: imidazole propionate,HMDB0002271,C20522,True,imidazole propionate,7.393472,141.065236,,Azoles,[M+H]+
+HILIC-neg_Cluster_0204: imidazolelactate,HMDB0002320,C05132,True,imidazolelactate,4.568166,155.045875,,Azoles,[M-H]-
+HILIC-neg_Cluster_0824: inosine,HMDB0000195,C00294,False,inosine,3.396744,267.072637,,Purine nucleosides,[M-H]-
+HILIC-pos_Cluster_0822: inosine,HMDB0000195,C00294,False,inosine,4.862826,269.086999,,Purine nucleosides,[M+H]+
+HILIC-pos_Cluster_0092: isoleucine,HMDB0000172,C00407,True,isoleucine,7.039731,132.101601,,Isoleucine and derivatives,[M+H]+
+C18-neg_Cluster_0900: ketodeoxycholate,HMDB0000391,,False,ketodeoxycholate,8.346794,405.264403,,,[M-H]-
+HILIC-pos_Cluster_0383: kynurenic acid,HMDB0000715,C01717,True,kynurenic acid,5.218416,190.049178,,Quinolines and derivatives,[M+H]+
+"HILIC-pos_Cluster_0521: L-1,2,3,4-tetrahydro-beta-carboline-3-carboxylic acid*",HMDB0035665,,False,"L-1,2,3,4-tetrahydro-beta-carboline-3-carboxylic acid*",6.360789,217.096207,1.0,Pyridoindoles,[M+H]+
+HILIC-neg_Cluster_0247: L-phenyllactic acid,HMDB0000748,C05607,False,L-phenyllactic acid,3.820866,165.055393,3.0,Phenylpropanoic acids,[M-H]-
+HILIC-neg_Cluster_0020: lactate,HMDB0000190,C00186,True,lactate,4.030335,89.024276,1.0,Hydroxy acids and derivatives,[M-H]-
+HILIC-neg_Cluster_1170: lactose,HMDB0041627,C01970,True,lactose,2.609105,341.108598,,O-glycosyl compounds,[M-H]-
+HILIC-pos_Cluster_0091: leucine,HMDB0000687,C00123,False,leucine,6.911032,132.101541,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0105: leucine,HMDB0000687,C00123,False,leucine,2.624067,130.087084,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-neg_Cluster_0230: levoglucosan,HMDB0000640,,True,levoglucosan,7.130819,161.045377,,,[M-H]-
+C18-neg_Cluster_0246: linoleic acid,HMDB0000673,C01595,True,linoleic acid,14.484832,279.232943,9.0,,[M-H]-
+C8-pos_Cluster_1495: linoleoyl ethanolamide ,HMDB0012252,,False,linoleoyl ethanolamide,4.768315,669.554472,1.0,Organonitrogen compounds,[2M+Na]+
+HILIC-neg_Cluster_1325: linoleoyl ethanolamide,HMDB0012252,,False,linoleoyl ethanolamide,1.076403,382.295979,18.0,Organonitrogen compounds,[M+CH3COO]-
+HILIC-pos_Cluster_1160: linoleoyl ethanolamide,HMDB0012252,,False,linoleoyl ethanolamide,1.942824,326.303789,18.0,Organonitrogen compounds,[Unknown]+
+HILIC-neg_Cluster_1088: linoleoyl ethanolamide ,HMDB0012252,,False,linoleoyl ethanolamide,1.067339,322.27492,18.0,Organonitrogen compounds,[M-H]-
+C8-pos_Cluster_0339: linoleoyl ethanolamide ,HMDB0012252,,False,linoleoyl ethanolamide,4.773251,346.271831,18.0,Organonitrogen compounds,[M+Na]+
+C8-pos_Cluster_0264: linoleoyl ethanolamide ,HMDB0012252,,False,linoleoyl ethanolamide,4.769408,324.290218,18.0,Organonitrogen compounds,[M+H]+
+HILIC-pos_Cluster_1148: linoleoyl ethanolamide ,HMDB0012252,,False,linoleoyl ethanolamide,1.941643,324.28841,18.0,Organonitrogen compounds,[M+H]+
+HILIC-neg_Cluster_1303: lithocholate,HMDB0000717,C17658,False,lithocholate,3.949561,375.290195,,,[M-H]-
+C18-neg_Cluster_0731: lithocholic acid,HMDB0000717,C17658,False,lithocholic acid,12.432525,375.29013,,,[M-H]-
+HILIC-pos_Cluster_0157: lysine,HMDB0000182,C00047,True,lysine,9.37,147.112492,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0118: malate,HMDB0000156,C00149,True,malate,7.324073,133.014111,,,[M-H]-
+HILIC-neg_Cluster_0033: malonate,,C00383,True,malonate,7.481365,103.003626,,Dicarboxylic acids and derivatives,[M-H]-
+C18-neg_Cluster_1680: maslinic acid,HMDB0002392,C16939,False,maslinic acid,11.823681,517.353113,3.0,,[M+FA-H]-
+C18-neg_Cluster_1385: maslinic acid,HMDB0002392,C16939,False,maslinic acid,11.823927,471.347521,3.0,,[M-H]-
+C18-neg_Cluster_1803: maslinic acid,HMDB0002392,C16939,False,maslinic acid,11.824683,539.33415,2.0,,[Unknown]-
+C18-neg_Cluster_2068: maslinic acid,HMDB0002392,C16939,False,maslinic acid,11.824201,607.321568,2.0,,[Unknown]-
+HILIC-pos_Cluster_0167: methionine,HMDB0000696,C00073,False,methionine,6.997128,150.057729,,Methionine and derivatives,[M+H]+
+HILIC-neg_Cluster_0173: methionine,HMDB0000696,C00073,False,methionine,3.157803,148.04366,,Methionine and derivatives,[M-H]-
+HILIC-pos_Cluster_0244: methionine sulfoxide,HMDB0002005,C02989,True,methionine sulfoxide,8.618429,166.052769,1.0,Alpha amino acids,[M+H]+
+HILIC-neg_Cluster_0030: methylbutyric aid / valeric / isovaleric*,,,False,methylbutyric aid / valeric / isovaleric*,3.79864,101.06065,,Methyl-branched fatty acids,[M-H]-
+HILIC-pos_Cluster_0191: methylpyridonecarboxamide,,,True,methylpyridonecarboxamide,4.249376,153.065281,,Pyridines and derivatives,[M+H]+
+C18-neg_Cluster_0107: myristic acid,HMDB0000806,C06424,True,myristic acid,14.008037,227.200845,,Long-chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0524: N-acetyl-L-arginine,HMDB0004620,,True,N-acetyl-L-arginine,8.115299,217.12866,1.0,N-acyl-L-alpha-amino acids,[M+H]+
+HILIC-neg_Cluster_0372: N-acetylglutamate,HMDB0001138,C00624,False,N-acetylglutamate,7.016821,188.056303,6.0,Glutamic acid and derivatives,[M-H]-
+HILIC-pos_Cluster_0384: N-acetylglutamic acid,HMDB0001138,C00624,False,N-acetylglutamic acid,4.5095,190.070536,6.0,Glutamic acid and derivatives,[M+H]+
+HILIC-pos_Cluster_0495: N-acetylglutamic acid,HMDB0001138,C00624,False,N-acetylglutamic acid,4.512609,212.052212,6.0,Glutamic acid and derivatives,[M+Na]+
+HILIC-pos_Cluster_0419: N-acetylhistidine,HMDB0032055,C02997,True,N-acetylhistidine,8.356582,198.084419,,Histidine and derivatives,[M+H]+
+HILIC-pos_Cluster_0086: N-acetylputrescine,HMDB0002064,C02714,False,N-acetylputrescine,7.827926,131.11756,2.0,Carboximidic acids and derivatives,[M+H]+
+HILIC-pos_Cluster_0038: N-acetylputrescine,HMDB0002064,C02714,False,N-acetylputrescine,7.82784,114.091289,2.0,Carboximidic acids and derivatives,[Unknown]+
+HILIC-pos_Cluster_0374: N-acetylspermidine,HMDB0001276,C00612,True,N-acetylspermidine,9.710596,188.175124,,Carboximidic acids and derivatives,[M+H]+
+HILIC-pos_Cluster_0082: N-methylproline,HMDB0094696,,True,N-methylproline,8.568446,130.086042,,,[M+H]+
+C8-pos_Cluster_0341: N-oleoylethanolamine ,HMDB0002088,,True,N-oleoylethanolamine,5.107714,348.28717,18.0,Organonitrogen compounds,[M+Na]+
+C18-neg_Cluster_0672: nervonic acid,HMDB0002368,C08323,True,nervonic acid,17.959622,365.342106,,Very long-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0082: nicotinate,HMDB0001488,C00253,False,nicotinate,4.196408,122.024696,3.0,Pyridinecarboxylic acids and derivatives,[M-H]-
+HILIC-pos_Cluster_0062: nicotinic acid,HMDB0001488,C00253,False,nicotinic acid,3.650861,124.039165,3.0,Pyridinecarboxylic acids and derivatives,[M+H]+
+HILIC-pos_Cluster_0378: NMMA,,,True,NMMA,9.336896,189.133885,,Arginine and derivatives,[M+H]+
+C18-neg_Cluster_1596: oleanolic acid,HMDB0002364,C17148,False,oleanolic acid,13.873411,501.358025,5.0,,[M+FA-H]-
+C18-neg_Cluster_1275: oleanolic acid,HMDB0002364,C17148,False,oleanolic acid,13.87466,455.352797,5.0,,[M-H]-
+C18-neg_Cluster_0250: oleic acid,HMDB0000207,C00712,True,oleic acid,15.272049,281.248551,,,[M-H]-
+HILIC-pos_Cluster_0100: ornithine,HMDB0000214,C00077,True,ornithine,9.281319,133.096824,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0203: orotate,HMDB0000226,C00295,True,orotate,4.709074,155.009615,,Pyrimidines and pyrimidine derivatives,[M-H]-
+HILIC-neg_Cluster_0016: oxalate,HMDB0002329,C00209,True,oxalate,7.766292,88.987993,,Dicarboxylic acids and derivatives,[M-H]-
+C18-neg_Cluster_0019: p-hydroxyphenylacetate,HMDB0000020,C00642,True,p-hydroxyphenylacetate,1.470262,151.038765,,Phenols,[M-H]-
+C18-neg_Cluster_0171: palmitic acid,HMDB0000220,C00249,True,palmitic acid,15.15693,255.232602,,Fatty acids and conjugates,[M-H]-
+C18-neg_Cluster_0164: palmitoleic acid,HMDB0003229,C08362,True,palmitoleic acid,14.212543,253.216969,,Long-chain fatty acids,[M-H]-
+C8-pos_Cluster_0288: palmitoyl glycerol,HMDB0011564,,True,palmitoyl glycerol,5.126296,331.283872,,2-monoacylglycerols,[M+H]+
+C8-pos_Cluster_0168: palmitoylethanolamide,HMDB0002100,C16512,False,palmitoylethanolamide,4.923002,300.289632,18.0,Carboximidic acids and derivatives,[M+H]+
+C18-neg_Cluster_0563: palmitoylethanolamide,HMDB0002100,C16512,False,palmitoylethanolamide,13.726077,344.280356,3.0,Carboximidic acids and derivatives,[M+FA]-
+C18-neg_Cluster_0515: palmitoylethanolamide,HMDB0002100,C16512,False,palmitoylethanolamide,13.727848,334.25178,2.0,Carboximidic acids and derivatives,[M+Cl]-
+HILIC-pos_Cluster_0540: pantothenate,HMDB0000210,C00864,False,pantothenate,3.034481,220.117078,3.0,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0552: pantothete,HMDB0000210,C00864,False,pantothete,4.073403,218.102997,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-neg_Cluster_0697: pentadecanoate,HMDB0000826,C16537,True,pentadecanoate,3.341595,241.217098,,Long-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0125: phenylacetate,HMDB0000209,C07086,True,phenylacetate,3.972693,135.045062,,,[M-H]-
+HILIC-pos_Cluster_0248: phenylalanine,HMDB0000159,C00079,False,phenylalanine,6.660172,166.085878,,Phenylalanine and derivatives,[M+H]+
+HILIC-neg_Cluster_0242: phenylalanine,HMDB0000159,C00079,False,phenylalanine,3.23711,164.071506,,Phenylpropanoic acids,[M-H]-
+C18-neg_Cluster_0031: phenyllactate,HMDB0000779,C01479,True,phenyllactate,2.554265,165.054458,,Phenylpropanoic acids,[M-H]-
+HILIC-pos_Cluster_1113: phytosphingosine,HMDB0004610,C12144,True,phytosphingosine,5.807391,318.298969,1.0,Organonitrogen compounds,[M+H]+
+HILIC-pos_Cluster_0081: pipecolic acid,HMDB0000070,C00408,True,pipecolic acid,7.930976,130.086018,2.0,L-alpha-amino acids,[M+H]+
+HILIC-pos_Cluster_0927: piperine,HMDB0029377,C03882,False,piperine,1.891232,286.142786,,,[M+H]+
+C8-pos_Cluster_0136: piperine,HMDB0029377,C03882,False,piperine,3.671675,286.143984,,,[M+H]+
+HILIC-neg_Cluster_0059: proline,HMDB0000162,C00148,False,proline,3.059664,114.055988,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-pos_Cluster_0041: proline,HMDB0000162,C00148,False,proline,8.073911,116.070546,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-pos_Cluster_0134: proline betaine,HMDB0004827,C10172,True,proline betaine,9.166394,144.101344,,Proline and derivatives,[M+H]+
+HILIC-neg_Cluster_0003: propionate,HMDB0000237,C00163,True,propionate,4.047601,73.02932,,Carboxylic acids,[M-H]-
+HILIC-neg_Cluster_0707: pseudouridine,HMDB0000767,C02067,True,pseudouridine,2.338077,243.061931,,Nucleoside and nucleotide analogues,[M-H]-
+HILIC-pos_Cluster_0007: putrescine,HMDB0001414,C00134,True,putrescine,9.291155,89.107655,,Amines,[M+H]+
+HILIC-pos_Cluster_0268: pyridoxamine,HMDB0001431,C00534,False,pyridoxamine,9.033352,169.096593,3.0,Pyridoxamines,[M+H]+
+HILIC-pos_Cluster_0184: pyridoxamine,HMDB0001431,C00534,False,pyridoxamine,9.029533,152.069805,3.0,Pyridoxamines,[M-OH+H]+
+HILIC-neg_Cluster_0040: pyrocatechol,HMDB0000957,C15571,True,pyrocatechol,1.455358,109.029385,1.0,Benzenediols,[M-H]-
+HILIC-pos_Cluster_0079: pyroglutamic acid,HMDB0000267,C01879,True,pyroglutamic acid,8.044523,130.0495,,Alpha amino acids and derivatives,[M+H]+
+HILIC-neg_Cluster_0192: ribitol,HMDB0000508,C00474,True,ribitol,1.757746,151.06086,,Sugar alcohols,[M-H]-
+HILIC-neg_Cluster_1300: riboflavin,HMDB0000244,C00255,True,riboflavin,1.613945,375.130015,,Alloxazines and isoalloxazines,[M-H]-
+HILIC-neg_Cluster_0332: saccharin,HMDB0029723,C12283,True,saccharin,3.810657,181.99164,,Benzothiazoles,[M-H]-
+HILIC-neg_Cluster_0129: salicylate,HMDB0000840,C07588,True,salicylate,3.955146,137.024184,,Benzoic acids and derivatives,[M-H]-
+C18-neg_Cluster_0064: sebacate,HMDB0000792,C08277,False,sebacate,6.184348,201.112299,6.0,Fatty acids and conjugates,[M-H]-
+HILIC-neg_Cluster_0441: sebacate,HMDB0000792,C08277,False,sebacate,7.092408,201.113094,6.0,Fatty acids and conjugates,[M-H]-
+HILIC-pos_Cluster_0024: serine,HMDB0000187,C00716,False,serine,7.67572,106.049891,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0035: serine,HMDB0000187,C00716,False,serine,4.041081,104.035333,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-neg_Cluster_0283: shikimate,HMDB0003070,C00493,True,shikimate,4.737642,173.044913,,,[M-H]-
+HILIC-neg_Cluster_0331: sorbitol,HMDB0000247,C00794,True,sorbitol,2.01362,181.071617,,Sugar alcohols,[M-H]-
+HILIC-pos_Cluster_1017: sphinganine,HMDB0000269,C00836,True,sphinganine,5.706731,302.303848,,Organonitrogen compounds,[M+H]+
+C8-pos_Cluster_0123: sphingosine,HMDB0000252,C00319,False,sphingosine,4.220022,282.279047,2.0,Organonitrogen compounds,[M+H-H2O]+
+C8-pos_Cluster_0166: sphingosine,HMDB0000252,C00319,False,sphingosine,4.204833,300.289756,6.0,Organonitrogen compounds,[M+H]+
+C8-pos_Cluster_0988: sphingosine,HMDB0000252,C00319,False,sphingosine,4.211524,535.35428,6.0,Organonitrogen compounds,[Unknown]+
+C8-pos_Cluster_0253: sphingosine,HMDB0000252,C00319,False,sphingosine,4.212764,322.271398,6.0,Organonitrogen compounds,[M+Na]+
+C18-neg_Cluster_0256: stearic acid,HMDB0000827,C01530,True,stearic acid,16.09378,283.26395,,Fatty acids and conjugates,[M-H]-
+C8-pos_Cluster_0277: stearoyl ethanolamide,HMDB0013078,,True,stearoyl ethanolamide,5.494829,328.320676,,Organonitrogen compounds,[M+H]+
+HILIC-neg_Cluster_0288: suberate,HMDB0000893,C08278,True,suberate,7.142564,173.081584,6.0,,[M-H]-
+HILIC-neg_Cluster_0069: succite,HMDB0000254,C00042,False,succite,7.266082,117.019214,,Dicarboxylic acids and derivatives,[M-H]-
+HILIC-neg_Cluster_0174: tartarate,HMDB0000956,C00898,True,tartarate,7.406051,149.008724,,,[M-H]-
+HILIC-pos_Cluster_0066: taurine,HMDB0000251,C00245,False,taurine,6.103439,126.021806,5.0,Organosulfonic acids and derivatives,[M+H]+
+HILIC-neg_Cluster_0085: taurine,HMDB0000251,C00245,False,taurine,3.722991,124.007185,5.0,Organosulfonic acids and derivatives,[M-H]-
+C18-neg_Cluster_1574: taurochenodesoxycholic acid,HMDB0000951,C05465,True,taurochenodesoxycholic acid,8.289154,498.289107,,"Bile acids, alcohols and derivatives",[M-H]-
+HILIC-neg_Cluster_1675: taurodeoxycholate/taurochenodeoxycholate*,,,False,taurodeoxycholate/taurochenodeoxycholate*,3.560883,498.289509,,,[M-H]-
+C18-neg_Cluster_1575: taurodeoxycholic acid,HMDB0000896,C05463,True,taurodeoxycholic acid,8.547102,498.289493,,,[M-H]-
+C18-neg_Cluster_1576: taurohyodeoxycholate/ tauroursodeoxycholate,,,False,taurohyodeoxycholate/ tauroursodeoxycholate,7.263042,498.289624,1.0,,[M-H]-
+C18-neg_Cluster_1465: taurolithocholic acid,HMDB0000722,C02592,True,taurolithocholic acid,9.710907,482.294214,,,[M-H]-
+C18-neg_Cluster_0177: tetradecanedioate,HMDB0000872,C11002,True,tetradecanedioate,9.442364,257.175625,,Long-chain fatty acids,[M-H]-
+HILIC-pos_Cluster_0797: thiamine,HMDB0000235,C00378,True,thiamine,9.50362,265.110536,2.0,Pyrimidines and pyrimidine derivatives,[M]+
+HILIC-neg_Cluster_0073: threonine,HMDB0000167,C00188,False,threonine,3.671176,118.05084,,L-alpha-amino acids,[M-H]-
+HILIC-pos_Cluster_0049: threonine,HMDB0000167,C00188,False,threonine,7.599189,120.065478,,L-alpha-amino acids,[M+H]+
+HILIC-pos_Cluster_0998: threosphingosine,,,True,threosphingosine,5.676804,300.288345,6.0,,[M+H]+
+HILIC-pos_Cluster_0906: threosphingosine,,,True,threosphingosine,5.683548,282.27795,6.0,,[M-H2O]+
+HILIC-neg_Cluster_0087: thymine,HMDB0000262,C00178,True,thymine,1.350997,125.035549,,Diazines,[M-H]-
+HILIC-pos_Cluster_0172: triethanolamine,HMDB0032538,C06771,True,triethanolamine,7.640081,150.111879,,Alkanolamines,[M+H]+
+HILIC-pos_Cluster_0113: trigonelline,HMDB0000875,C01004,True,trigonelline,8.845482,138.054606,,,[M+H]+
+HILIC-pos_Cluster_0054: trimethylbenzene*,,,False,trimethylbenzene*,1.656798,121.100956,,,[M+H]+
+HILIC-pos_Cluster_0379: trimethyllysine,HMDB0001325,C03793,True,trimethyllysine,11.169333,189.158863,,L-alpha-amino acids,[M+H]+
+HILIC-neg_Cluster_0452: tryptophan,HMDB0000929,C00078,False,tryptophan,3.456332,203.08251,,Indoles and derivatives,[M-H]-
+HILIC-pos_Cluster_0455: tryptophan,HMDB0000929,C00078,False,tryptophan,6.454702,205.096333,,Indoles and derivatives,[M+H]+
+HILIC-pos_Cluster_0333: tyrosine,HMDB0000158,C00082,False,tyrosine,6.783577,182.080679,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0324: tyrosine,HMDB0000158,C00082,False,tyrosine,3.770437,180.066485,,"Amino acids, peptides, and analogues",[M-H]-
+C18-neg_Cluster_0079: undecanedionate,HMDB0000888,,True,undecanedionate,7.187602,215.128083,3.0,Medium-chain fatty acids,[M-H]-
+HILIC-neg_Cluster_0049: uracil,HMDB0000300,C00106,True,uracil,1.546029,111.019898,,Pyrimidines and pyrimidine derivatives,[M-H]-
+HILIC-neg_Cluster_0254: urate,HMDB0000289,C00366,True,urate,5.354563,167.020718,,Purines and purine derivatives,[M-H]-
+HILIC-neg_Cluster_0706: uridine,HMDB0000296,C00299,True,uridine,1.796623,243.061889,,,[M-H]-
+C18-neg_Cluster_2021: urobilin,HMDB0004160,C05794,False,urobilin,6.512715,593.334522,15.0,Tetrapyrroles and derivatives,[M-H]-
+HILIC-pos_Cluster_2093: urobilin*,HMDB0004160,C05793,False,urobilin*,6.422734,595.346201,15.0,Tetrapyrroles and derivatives,[M+H]+
+HILIC-pos_Cluster_0116: urocanic acid,HMDB0000301,C00785,True,urocanic acid,4.504729,139.04987,,Imidazoles,[M+H]+
+HILIC-pos_Cluster_0046: valine,HMDB0000883,C00183,False,valine,7.356815,118.086143,,"Amino acids, peptides, and analogues",[M+H]+
+HILIC-neg_Cluster_0066: valine,HMDB0000883,C00183,False,valine,2.876993,116.071554,,"Amino acids, peptides, and analogues",[M-H]-
+HILIC-neg_Cluster_0187: xanthine,HMDB0000292,C00385,True,xanthine,5.116361,151.025765,,Imidazopyrimidines,[M-H]-
+HILIC-neg_Cluster_0176: xylose,HMDB0000098,C00181,True,xylose,1.627438,149.045268,,Pentoses,[M-H]-
