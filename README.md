@@ -2,7 +2,7 @@
 
 ### 1. 数据
 
-本研究所使用的宏基因组-代谢组配对数据集来自"The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis"处理后的数据，数据获取链接为https://github.com/borenstein-lab/microbiome-metabolome-curated-data。其中，原始宏基因组测序数据经过标准质控、宿主去除及分类学分配，最终生成微生物属层级相对丰度数据；代谢组数据不做任何预处理，只是通过KEGG和HMDB等工具进行代谢物注释。
+本研究所使用的宏基因组-代谢组配对数据集来自"The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis"处理后的数据，具体来说，原始宏基因组测序数据经过标准质控、宿主去除及分类学分配，最终生成微生物属层级相对丰度数据；代谢组数据不做任何预处理，只是通过KEGG和HMDB等工具进行代谢物注释。数据获取链接为https://github.com/borenstein-lab/microbiome-metabolome-curated-data。
 
 ### 2. Code
 
